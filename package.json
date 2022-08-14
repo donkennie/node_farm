@@ -1,0 +1,25 @@
+{
+  "name": "node-farm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/donkennie/node_farm.git"
+  },
+  "author": "kennie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/donkennie/node_farm/issues"
+  },
+  "homepage": "https://github.com/donkennie/node_farm#readme",
+  "dependencies": {
+    "slugify": "^1.6.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
